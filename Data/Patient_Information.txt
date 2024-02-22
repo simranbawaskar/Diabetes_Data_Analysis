@@ -1,6 +1,6 @@
 Patient ID, Age, Gender, Weight
 1,45,Male,80
-2,55,Female,65
+2,fifty,Female,65
 3,35,Male,90
 4,40,Female,70
 5,50,Male,85
@@ -11,7 +11,7 @@ Patient ID, Age, Gender, Weight
 10,48,Female,68
 11,38,Female,75
 12,45,Male,85
-13,50,Female,70
+13,fifty,Female,70
 14,55,Male,90
 15,60,Female,65
 16,42,Male,88
@@ -49,12 +49,12 @@ Patient ID, Age, Gender, Weight
 48,44,Male,91
 49,52,Female,62
 50,43,Male,89
-
+50,46,Madam,88
 51,58,Male,88
 52,33,Female,65
 53,45,Male,90
 54,40,Female,70
-55,50,Male,85
+55,fifty,Male,85
 56,60,Female,75
 57,55,Male,95
 58,30,Female,60
@@ -62,7 +62,7 @@ Patient ID, Age, Gender, Weight
 60,48,Female,68
 61,38,Female,75
 62,45,Male,85
-63,50,Female,70
+63,fifty,Female,70
 64,55,Male,90
 65,60,Female,65
 66,42,Male,88
@@ -84,7 +84,7 @@ Patient ID, Age, Gender, Weight
 82,34,Male,85
 83,59,Female,70
 84,44,Male,90
-85,50,Female,65
+85,fifty,Female,65
 86,37,Male,88
 87,54,Female,68
 88,32,Male,95
@@ -98,9 +98,9 @@ Patient ID, Age, Gender, Weight
 96,49,Male,88
 97,61,Female,68
 98,44,Male,91
-99,52,Female,62
-100,43,Male,89
-
+99,52,Fem,62
+100,43,M,89
+101,25,Male,70
 101,25,Male,70
 102,60,Female,75
 103,55,Male,85
@@ -116,7 +116,7 @@ Patient ID, Age, Gender, Weight
 113,65,Female,85
 114,32,Male,68
 115,48,Female,70
-116,57,Male,78
+116,57,Male,78st
 117,30,Female,63
 118,68,Male,88
 119,42,Female,75
