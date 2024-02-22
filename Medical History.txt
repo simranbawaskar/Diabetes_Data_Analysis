@@ -1,0 +1,153 @@
+Patient ID,Family History,Previous Diagnosis,Medication History,Complications,Diabetes Status
+1,No history,No diagnosis,No medication,None,No
+2,Diabetes,Type 2 diabetes,No medication,None,Yes
+3,No history,No diagnosis,Insulin,None,Yes
+4,No history,Hypertension,No medication,None,No
+5,No history,No diagnosis,Metformin,None,Yes
+6,Heart disease,No diagnosis,Insulin,Heart attack,Yes
+7,No history,No diagnosis,No medication,Neuropathy,Yes
+8,No history,Type 1 diabetes,Insulin,Stroke,No
+9,Diabetes,Hypertension,Metformin,Heart failure,Yes
+10,No history,No diagnosis,No medication,None,No
+11,No history,Type 2 diabetes,No medication,Hypertension,Yes
+12,No history,No diagnosis,Insulin,None,Yes
+13,No history,No diagnosis,Insulin,Depression,No
+14,Diabetes,Type 2 diabetes,Insulin,Hypoglycemia,Yes
+15,No history,No diagnosis,Insulin,Stroke,Yes
+16,No history,No diagnosis,Metformin,None,No
+17,Heart disease,No diagnosis,No medication,Angina,No
+18,Diabetes,Type 2 diabetes,Insulin,None,Yes
+19,No history,Type 2 diabetes,No medication,Esophagitis,Yes
+20,No history,No diagnosis,No medication,None,No
+21,No history,No diagnosis,Metformin,Obesity,Yes
+22,Heart disease,No diagnosis,No medication,Fracture,No
+23,Diabetes,No diagnosis,Insulin,Respiratory failure,Yes
+24,No history,Type 2 diabetes,No medication,None,Yes
+25,No history,No diagnosis,Metformin,Diabetic ketoacidosis,Yes
+26,No history,No diagnosis,No medication,Cardiomyopathy,No
+27,No history,Type 1 diabetes,No medication,Gastroparesis,Yes
+28,Diabetes,No diagnosis,Insulin,Joint swelling,Yes
+29,No history,No diagnosis,No medication,Colon obstruction,No
+30,No history,No diagnosis,Metformin,None,Yes
+31,No history,No diagnosis,No medication,Stroke,Yes
+32,No history,Type 2 diabetes,No medication,Deep vein thrombosis,Yes
+33,No history,Type 2 diabetes,Insulin,Diabetic retinopathy,Yes
+34,No history,Type 2 diabetes,Insulin,None,Yes
+35,No history,No diagnosis,No medication,Congestive heart failure,No
+36,No history,Type 2 diabetes,Insulin,Non-alcoholic fatty liver disease,Yes
+37,No history,No diagnosis,Insulin,Venous ulcer,No
+38,No history,Type 2 diabetes,Insulin,None,Yes
+39,No history,No diagnosis,No medication,Anxiety disorder,No
+40,Diabetes,No diagnosis,Insulin,Chronic kidney disease,Yes
+41,No history,No diagnosis,No medication,Stroke,No
+42,Heart disease,No diagnosis,Insulin,Heart failure,Yes
+43,No history,No diagnosis,No medication,Chronic kidney disease,Yes
+44,No history,Type 2 diabetes,Insulin,Peripheral neuropathy,Yes
+45,No history,Type 2 diabetes,Insulin,Diabetic nephropathy,Yes
+46,No history,No diagnosis,No medication,Heart attack,No
+47,No history,No diagnosis,Chemotherapy,Bone marrow suppression,No
+48,No history,No diagnosis,No medication,Chronic kidney disease,No
+49,No history,No diagnosis,Insulin,Obstructive sleep apnea,Yes
+50,No history,No diagnosis,No medication,Seizures,No
+
+51,No history,No diagnosis,No medication,None,No
+52,Diabetes,No diagnosis,Insulin,None,Yes
+53,No history,No diagnosis,Metformin,None,Yes
+54,No history,No diagnosis,No medication,Heart attack,Yes
+55,Diabetes,No diagnosis,No medication,Stroke,No
+56,No history,Type 2 diabetes,Insulin,Heart failure,Yes
+57,No history,No diagnosis,No medication,Neuropathy,Yes
+58,Diabetes,Hypertension,Metformin,Obesity,Yes
+59,No history,No diagnosis,No medication,Anxiety disorder,No
+60,Diabetes,No diagnosis,Insulin,Non-alcoholic fatty liver disease,Yes
+61,No history,Type 2 diabetes,Insulin,Peripheral neuropathy,Yes
+62,Diabetes,Type 2 diabetes,No medication,Esophagitis,Yes
+63,No history,No diagnosis,Metformin,Chronic kidney disease,Yes
+64,No history,No diagnosis,Insulin,Depression,Yes
+65,Diabetes,No diagnosis,No medication,Deep vein thrombosis,Yes
+66,No history,No diagnosis,No medication,Fracture,No
+67,No history,No diagnosis,Metformin,Cardiomyopathy,Yes
+68,No history,No diagnosis,No medication,Seizures,No
+69,Diabetes,No diagnosis,Insulin,Gastroparesis,Yes
+70,No history,Type 1 diabetes,No medication,Joint swelling,Yes
+71,No history,No diagnosis,No medication,Chronic kidney disease,Yes
+72,Diabetes,No diagnosis,Insulin,Angina,Yes
+73,No history,No diagnosis,Insulin,Diabetic ketoacidosis,Yes
+74,No history,No diagnosis,No medication,Stroke,No
+75,No history,No diagnosis,Metformin,Diabetic retinopathy,Yes
+76,No history,Type 2 diabetes,Insulin,Respiratory failure,Yes
+77,No history,Type 2 diabetes,No medication,Peripheral neuropathy,Yes
+78,No history,Type 2 diabetes,Insulin,Colon obstruction,Yes
+79,No history,Type 2 diabetes,No medication,Non-alcoholic fatty liver disease,Yes
+80,Diabetes,No diagnosis,Insulin,Chronic kidney disease,Yes
+81,No history,No diagnosis,No medication,Deep vein thrombosis,No
+82,No history,No diagnosis,Insulin,Heart failure,Yes
+83,Diabetes,Type 2 diabetes,No medication,Diabetic nephropathy,Yes
+84,No history,No diagnosis,No medication,Anemia,No
+85,No history,No diagnosis,Metformin,Esophagitis,Yes
+86,No history,No diagnosis,Insulin,Heart attack,Yes
+87,Diabetes,No diagnosis,Insulin,Stroke,Yes
+88,No history,No diagnosis,No medication,Fracture,No
+89,No history,No diagnosis,Metformin,Depression,Yes
+90,No history,Type 2 diabetes,Insulin,Obesity,Yes
+91,No history,Type 2 diabetes,No medication,Angina,Yes
+92,No history,No diagnosis,No medication,Neuropathy,No
+93,No history,No diagnosis,No medication,Obstructive sleep apnea,No
+94,Diabetes,No diagnosis,Metformin,Stroke,Yes
+95,No history,Type 2 diabetes,Insulin,Cardiomyopathy,Yes
+96,No history,No diagnosis,Insulin,Chronic kidney disease,Yes
+97,No history,No diagnosis,No medication,Seizures,No
+98,No history,No diagnosis,Metformin,Anxiety disorder,Yes
+99,No history,Type 2 diabetes,No medication,Diabetic retinopathy,Yes
+100,No history,No diagnosis,No medication,Heart failure,No
+101,No history,Type 2 diabetes,No medication,Depression,Yes
+102,No history,No diagnosis,No medication,Stroke,Yes
+103,Diabetes,No diagnosis,Metformin,Diabetic neuropathy,Yes
+104,No history,No diagnosis,Metformin,Stroke,Yes
+105,No history,No diagnosis,No medication,Chronic kidney disease,No
+106,No history,No diagnosis,Insulin,Heart attack,Yes
+107,Diabetes,No diagnosis,No medication,Stroke,Yes
+108,No history,No diagnosis,No medication,Fracture,No
+109,No history,No diagnosis,Metformin,Depression,Yes
+110,No history,Type 2 diabetes,Insulin,Obesity,Yes
+111,No history,Type 2 diabetes,No medication,Angina,Yes
+112,No history,No diagnosis,No medication,Neuropathy,No
+113,No history,No diagnosis,No medication,Obstructive sleep apnea,No
+114,Diabetes,No diagnosis,Metformin,Stroke,Yes
+115,No history,Type 2 diabetes,Insulin,Cardiomyopathy,Yes
+116,No history,No diagnosis,Insulin,Chronic kidney disease,Yes
+117,No history,No diagnosis,No medication,Seizures,No
+118,No history,No diagnosis,Metformin,Anxiety disorder,Yes
+119,No history,Type 2 diabetes,No medication,Diabetic retinopathy,Yes
+120,No history,No diagnosis,No medication,Heart failure,No
+121,No history,No diagnosis,Insulin,Depression,Yes
+122,No history,No diagnosis,No medication,Stroke,Yes
+123,Diabetes,No diagnosis,Metformin,Diabetic neuropathy,Yes
+124,No history,No diagnosis,Metformin,Stroke,Yes
+125,No history,No diagnosis,No medication,Chronic kidney disease,No
+126,No history,No diagnosis,Insulin,Heart attack,Yes
+127,Diabetes,No diagnosis,No medication,Stroke,Yes
+128,No history,No diagnosis,No medication,Fracture,No
+129,No history,No diagnosis,Metformin,Depression,Yes
+130,No history,Type 2 diabetes,Insulin,Obesity,Yes
+131,No history,Type 2 diabetes,No medication,Angina,Yes
+132,No history,No diagnosis,No medication,Neuropathy,No
+133,No history,No diagnosis,No medication,Obstructive sleep apnea,No
+134,Diabetes,No diagnosis,Metformin,Stroke,Yes
+135,No history,Type 2 diabetes,Insulin,Cardiomyopathy,Yes
+136,No history,No diagnosis,Insulin,Chronic kidney disease,Yes
+137,No history,No diagnosis,No medication,Seizures,No
+138,No history,No diagnosis,Metformin,Anxiety disorder,Yes
+139,No history,Type 2 diabetes,No medication,Diabetic retinopathy,Yes
+140,No history,No diagnosis,No medication,Heart failure,No
+141,No history,No diagnosis,Insulin,Depression,Yes
+142,No history,No diagnosis,No medication,Stroke,Yes
+143,Diabetes,No diagnosis,Metformin,Diabetic neuropathy,Yes
+144,No history,No diagnosis,Metformin,Stroke,Yes
+145,No history,No diagnosis,No medication,Chronic kidney disease,No
+146,No history,No diagnosis,Insulin,Heart attack,Yes
+147,Diabetes,No diagnosis,No medication,Stroke,Yes
+148,No history,No diagnosis,No medication,Fracture,No
+149,No history,No diagnosis,Metformin,Depression,Yes
+150,No history,Type 2 diabetes,Insulin,Obesity,Yes
+
