@@ -1,4 +1,4 @@
-Patient ID, Breakfast, Lunch, Dinner, Snacks
+Patient_ID,Breakfast,Lunch,Dinner,Snacks
 1, Oatmeal, fruits, yogurt, Grilled chicken salad, Baked salmon, vegetables, Almonds, apple
 2, Whole grain toast, eggs, Quinoa salad, Stir-fried tofu, rice, Greek yogurt, nuts
 3, Smoothie, avocado toast, Lentil soup, Grilled steak, potatoes, Hummus, carrot sticks
@@ -49,7 +49,7 @@ Patient ID, Breakfast, Lunch, Dinner, Snacks
 48, Avocado toast, smoked salmon, Quinoa bowl, Tofu stir-fry, brown rice, Apple slices, peanut butter
 49, Breakfast burrito, salsa, Chicken Caesar salad, Baked cod, steamed vegetables, Rice cakes, almond butter
 50, Fruit smoothie, whole wheat toast, Greek salad, Veggie burger, sweet potato fries, Edamame, popcorn
-
+51, 0,0,0,0,0,0
 51, Oatmeal, fruits, yogurt, Grilled chicken salad, Baked salmon, vegetables, Almonds, apple
 52, Whole grain toast, eggs, Quinoa salad, Stir-fried tofu, rice, Greek yogurt, nuts
 53, Smoothie, avocado toast, Lentil soup, Grilled steak, potatoes, Hummus, carrot sticks
@@ -99,7 +99,7 @@ Patient ID, Breakfast, Lunch, Dinner, Snacks
 97, Whole grain cereal, milk, Vegetable wrap, Pasta with marinara sauce, Yogurt, granola bar
 98, Avocado toast, smoked salmon, Quinoa bowl, Tofu stir-fry, brown rice, Apple slices, peanut butter
 99, Breakfast burrito, salsa, Chicken Caesar salad, Baked cod, steamed vegetables, Rice cakes, almond butter
-100, Fruit smoothie, whole wheat toast, Greek salad, Veggie burger, sweet potato fries, Edamame, popcorn
+100, Fruit smoothie, whole wheat toast, Greek salad, Veggie 101 burger, sweet potato fries, Edamame, popcorn
 
 101, Oatmeal, fruits, yogurt, Grilled chicken salad, Baked salmon, vegetables, Almonds, apple
 102, Whole grain toast, eggs, Quinoa salad, Stir-fried tofu, rice, Greek yogurt, nuts
