@@ -1,4 +1,4 @@
-Patient ID, Blood Sugar Level (mg/dL), Blood Pressure (mmHg), Cholesterol Level (mg/dL)
+Patient_ID,Blood_Sugar_Level_(mg/dL),Blood_Pressure_(mmHg),Cholesterol_Level_(mg/dL)
 1,110,120/80,160
 2,95,118/75,150
 3,130,130/85,180
